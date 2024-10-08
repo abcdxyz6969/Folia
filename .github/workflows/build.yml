@@ -1,6 +1,6 @@
 name: Java CI with Gradle
 
-# Workflow sẽ chạy khi có push lên nhánh 'main' hoặc pull request
+# Workflow sẽ chạy khi có push lene nhánh 'main' hoặc pull request
 on:
   push:
     branches:
